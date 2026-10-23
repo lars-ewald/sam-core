@@ -10,8 +10,8 @@
 * **Züchter- und Partner-Management:** 
   * Regionaler Radius: Maximal 50 km um Senden **sowie eine gute Anbindung mit öffentlichen Verkehrsmitteln**.
   * Qualitätskriterien: Verbandszugehörigkeit zum DRC/GRC oder mindestens 10 Jahre nachweisbarer Bestand.
-  * Aktueller Status: Kontaktaufnahmen erfolgt. Fokus liegt auf der Etablierung einer beratenden Partnerschaft im Rahmen des Projekts „Sam“.
-  * **GitHub-Projekt & Datenschutz:** Erstellung des Open-Source-Projekts Anfang nächster Woche. Vorab-Einholung der datenschutzkonformen Erlaubnis zur namentlichen Nennung von Züchtern/Partnern sowie des Betreuers.
+  * Aktueller Status: Kontaktaufnahmen erfolgten. Fokus liegt auf der Etablierung einer beratenden Partnerschaft im Rahmen des Projekts „Sam“.
+  * **GitHub-Projekt & Datenschutz:** Erfolgreich initialisiert
 * **Räumliche und bauliche Anpassung:** 
   * Außenbereich (Senden): Welpensichere Umgestaltung des Gartens (Rückzugsorte, Absicherung).
   * Innenbereich: Entrümpelung sowie Installation von Treppenschutzgittern.
