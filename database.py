@@ -9,12 +9,12 @@ Base = declarative_base()
 class Breeder(Base):
   __tablename__ = "breeders"
 
-  id = Column(Integer, primary_key=True, autoincrement=True)
+  id = Column(Integer, autoincrement=True)
   zwingername = Column(String, nullable=False)
   zuechtername = Column(String, nullable=True)
   adresse = Column(String, nullable=True)
   url = Column(String, nullable=True)
-  content_hash = Column(String, nullable=True)
+  content_hash = Column(String, primary_key=True)
   last_checked = Column(DateTime, default=datetime.utcnow)
   status = Column(String, default="neu")
 
