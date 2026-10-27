@@ -29,6 +29,9 @@ Der Hund muss mittels ISO-Mikrochip fälschungssicher gekennzeichnet und in ein 
 
   * **4. Anmeldung bei der Gemeinde:**
 Nach Einzug von Sam erfolgt die steuerliche und ordnungsbehördliche Anmeldung bei der zuständigen Gemeindeverwaltung, wobei der Sachkundenachweis und der Versicherungsnachweis vorzulegen sind.
+* **Mobilität: (ToDo)**
+  * Sichere Transportboxen
+  * Elektro vs. Benzinfahrzeug
 
 ### Phase II: Operative Integration und Sozialisation (Monat 1 bis 6)
 * **Alltagsintegration:** Etablierung fester Routinen zur Stärkung der persönlichen Tagesstruktur.
