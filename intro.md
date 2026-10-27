@@ -29,9 +29,9 @@ Der Hund muss mittels ISO-Mikrochip fälschungssicher gekennzeichnet und in ein 
 
   * **4. Anmeldung bei der Gemeinde:**
 Nach Einzug von Sam erfolgt die steuerliche und ordnungsbehördliche Anmeldung bei der zuständigen Gemeindeverwaltung, wobei der Sachkundenachweis und der Versicherungsnachweis vorzulegen sind.
-* **Mobilität: (ToDo)**
-  * Sichere Transportboxen
-  * Elektro vs. Benzinfahrzeug
+* **Transportsicherheit und Fahrzeuglogistik:**
+  * **Sicherheitskonzept:** Höchster Schutzstandard durch eine maßgefertigte, crash-getestete Aluminium-Hundetransportbox im Kofferraum (z. B. Schmidt Fahrzeugbau / Kleinmetall), um ausreichende Steh- und Liegehöhe für Sam zu garantieren und Risiken bei der Heckklappenschräge zu eliminieren.
+  * **Fahrzeugauswahl & Infrastruktur:** Präferiertes Fahrzeugmodell ist ein E-Auto der Kompakt-/Mittelklasse (bspw. Hyundai IONIQ 5) in systemischer Verknüpfung mit einer eigenen Photovoltaik-Anlage auf dem Hausdach (Senden) zur nachhaltigen und kosteneffizienten Mobilität.
 
 ### Phase II: Operative Integration und Sozialisation (Monat 1 bis 6)
 * **Alltagsintegration:** Etablierung fester Routinen zur Stärkung der persönlichen Tagesstruktur.
