@@ -10,6 +10,7 @@ class Breeder(Base):
   __tablename__ = "breeders"
 
   id = Column(Integer, autoincrement=True, primary_key=True)
+  url = Column(String, nullable=False)
   content = Column(String, nullable=False)
   content_hash = Column(String, nullable=False, unique=True)
   last_checked = Column(DateTime, default=datetime.utcnow)
